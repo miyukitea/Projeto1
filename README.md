@@ -41,3 +41,4 @@ Esse projeto é só um treino de lógica + consumo de API, mas serve pra mostrar
 
 ---
 
+Observação: o código não funciona diretamente pois a chave não está incluída, mas é só fazer um cadastro na OpenWeatherMap e pegar uma chave! É de graça!
