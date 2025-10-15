@@ -1,6 +1,6 @@
 async function getWeather() {
   const city = document.getElementById("city").value;
-  const apiKey = "68ee3a3036c7ccadf99fd4ec5895bafe"; 
+  const apiKey = "lugar_da_chave"; 
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&lang=pt_br&units=metric`;
 
   const resultDiv = document.getElementById("result");
